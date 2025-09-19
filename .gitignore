@@ -1,1 +1,39 @@
-.vs/ 
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
+
+# Rider IDE files
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code settings
+.vscode/
+
+# Npm / Node
+node_modules/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Others
+*.log
+*.cache
+ 
